@@ -1,4 +1,4 @@
-# MovieVerse-Scrapper
+# MovieVerse-Parser
 
 # WHAT IS THIS?
 This a Parser that can scrape movies from https://moviesverse.ph/ and get all the streaming links and upload direct streaming links to telegram channel.
